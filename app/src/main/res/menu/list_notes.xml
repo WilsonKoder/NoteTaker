@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wilsonkoder.notetaker.ListNotesActivity" >
+    <item android:id="@+id/action_addnote"
+        android:title="Add Note"
+        android:orderInCategory="1"
+        android:showAsAction="always" />
+</menu>
